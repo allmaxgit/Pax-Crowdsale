@@ -1,0 +1,12 @@
+.funcLabel {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.funcRow {
+  margin-top: 10px;
+}
+
+.funcButton {
+  width: 250px;
+}
